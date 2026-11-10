@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/jugadu.png" width="180" alt="Jugadu mascot" />
+  <img src="./assets/jugadu-logo.png" width="180" alt="Jugadu mascot" />
   
   # Jugadu
   
